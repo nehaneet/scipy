@@ -1,4 +1,4 @@
-SciPy is an open source library of routines for science and engineering
+  SciPy is an open source library of routines for science and engineering
 using Python.  It is a community project sponsored by Enthought, Inc.
 SciPy originated with code contributions by Travis Oliphant, Pearu
 Peterson, and Eric Jones.  Travis Oliphant and Eric Jones each contributed
